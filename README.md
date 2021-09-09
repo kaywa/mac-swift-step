@@ -1,1 +1,1 @@
-# mac-swift-step
+# swift-step
